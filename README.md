@@ -8,8 +8,8 @@
 
 <br />Technical Diagram:
 > Hardware Sequence
-![sequence hardware](https://user-images.githubusercontent.com/72824435/206045666-1366a9e6-a4fd-4e3d-896b-af8522779808.png)
-><br />System Diagram
+![sequence hardware](https://user-images.githubusercontent.com/72824435/206045666-1366a9e6-a4fd-4e3d-896b-af8522779808.png)<br />
+> System Diagram
 ![sobat sistem diagram general (2)](https://user-images.githubusercontent.com/72824435/206046133-405f0ca4-d438-4cfb-a1bc-d8388f541e99.png)
 
 
