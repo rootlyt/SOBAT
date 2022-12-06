@@ -7,13 +7,14 @@
 ![image](https://user-images.githubusercontent.com/72824435/206046247-1e7cb65c-4dc2-4bb1-96b5-105a492b3be6.png)
 
 <br />Technical Diagram:
-> Hardware Sequence
+> 
 ![sequence hardware](https://user-images.githubusercontent.com/72824435/206045666-1366a9e6-a4fd-4e3d-896b-af8522779808.png)
-> System Diagram
+>
 ![sobat sistem diagram general (2)](https://user-images.githubusercontent.com/72824435/206046133-405f0ca4-d438-4cfb-a1bc-d8388f541e99.png)
 
 
 Competition Documentation:
+>
 <br /> >![image](https://user-images.githubusercontent.com/72824435/206044352-0e435517-ff91-4e10-9a30-501c8b37740a.png)
 <br />![image](https://user-images.githubusercontent.com/72824435/206044369-aa94a068-b4d5-49e9-9643-bc13c74bf18d.png)
 <br />![image](https://user-images.githubusercontent.com/72824435/206044384-da74874f-559a-414e-a677-548b473efe68.png)
