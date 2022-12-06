@@ -1,5 +1,5 @@
 # SOBAT (Sistem Otomatisasi Bank Sampah Terpadu)
-![image](https://user-images.githubusercontent.com/72824435/206045465-327be0fd-0294-47ae-9769-1df0cc95cb9a.png)
+![image](https://user-images.githubusercontent.com/72824435/206046623-50ef17c6-6644-4a6a-82d2-62617c279514.png)
 ## It is an Internet of Things (IoT) device that aims to simplify the transaction process in the waste bank program.
 <br />We made this back then 2019 for Hology2.0 Smart Device Competition, Indonesia.
 ![image](https://user-images.githubusercontent.com/72824435/206046301-6e6dd41a-4083-487f-9ccc-d3277bc8f82a.png)
